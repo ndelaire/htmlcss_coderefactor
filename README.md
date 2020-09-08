@@ -1,6 +1,6 @@
 # HTML/CSS Code Refactor 
 
-Horiseon wanted to adjust their codebase to follow accessibility standards so that their our own site is optimized for search engines. 
+Horiseon wanted to adjust their codebase to follow accessibility standards so that their site is optimized for search engines. 
 
 ## Description
 
